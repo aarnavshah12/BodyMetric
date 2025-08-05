@@ -1,0 +1,5 @@
+Pillow
+requests
+inference-sdk
+numpy
+opencv-python
